@@ -1,0 +1,31 @@
+{
+  "name": "Typing Speed Tester Project Summary",
+  "version": "0.0.1",
+  "description": "Used JavaScript to interact with the components of a app by creating event listeners to detect typing in the text area. Built a count-up timer. Created functions for leading zeros, spelling errors detector, and a reset button to stop the timer when the test is done.
+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamkande/Typing-Speed-Tester.git"
+  },
+  "author": "Liam Ansoumane Kande",
+  "devDependencies": {
+    "create-react-class": "^15.6.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-jsonminify": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-react": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-webserver": "^0.8.8",
+    "jshint-stylish": "^1.0.2",
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "reactify": "^1.1.1"
+  }
+}
